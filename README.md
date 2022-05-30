@@ -19,6 +19,8 @@
   <img align="center" alt="gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gab-Angular" height="35" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg> 
   <img align="center" alt="gab-Bootstrap" height="33" width="40" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg>
+     
+      ![Snake animation](https://github.com/Gabriel-Almeida00/Gabriel-Almeida00/blob/output/github-contribution-grid-snake.svg)
    
 </div>
 
