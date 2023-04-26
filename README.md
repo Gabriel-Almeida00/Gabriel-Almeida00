@@ -3,7 +3,6 @@
 
 
 - 💻:estudando Desenvolvimento de sistemas
-- 💻:Formado no bootcamp da generation como Desenvolvedor java full stack junior
 
 <div align="center">
   <a href="https://github.com/Gabriel-Almeida00">
